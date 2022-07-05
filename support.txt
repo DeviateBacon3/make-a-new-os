@@ -1,0 +1,2 @@
+intel baytrall kabylake
+ARM 
